@@ -46,3 +46,38 @@ How I ran dev-wallet:
 🎉 Starting dev wallet server on port 8701
 ❗   Make sure the emulator is running
 ```
+
+List of open files for flow-emulator process:
+
+```
+cwd
+/Users/bart/Projects/fcl-dev-wallet-issue
+txt
+/usr/local/bin/flow
+txt
+/usr/lib/dyld
+txt
+/Library/Preferences/Logging/.plist-cache.cUkl0GKW
+0
+/dev/ttys000
+1
+/dev/ttys000
+2
+/dev/ttys000
+3
+count=0, state=0xa
+4
+->0xc9a76edad1e04bd4
+5
+->0xd63f8fe3a90aab03
+7
+localhost:ddi-tcp-1
+8
+->0xfff3924b0c5d8c61
+9
+->0x912fdf32a2953f0c
+10
+localhost:http-alt
+11
+localhost:mbg-ctrl
+```
